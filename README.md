@@ -17,7 +17,7 @@ After completing this unit you will be able to:
   - **[pull][]** the latest changes from GitHub.
   - check the **[status][]** of a project under git.
   - view a **[log][]** of changes made to the project.
-  - see **[diff][]**erences between versions of files you are working on.
+  - see **[diff][]**&#8203;erences between versions of files you are working on.
 
 Once you have mastered these skills you will have the basics of using git to manage a personal project and by maintaining your repository on GitHub you will be able to easily work on a project at home and at school. You will also be ready to "level up" to use git in team projects.
 
