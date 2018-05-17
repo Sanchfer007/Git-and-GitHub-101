@@ -26,7 +26,7 @@ What separates using git on your own from work in a team project is the possibil
 1. Avoiding merge conflicts, and
 2. Resolving merge conflicts.
 
-To avoid merge conflicts you first try to avoid having multiple people working on the same files, and then you use the git **[branch][]** and **[merge][]** facilities to manage potential conflicts.
+To avoid merge conflicts you first try to avoid having multiple people working on the same files, and use the Git **[branch][]** and **[merge][]** facilities to manage potential conflicts.
 
 [add]: <>
 [branch]: <>
