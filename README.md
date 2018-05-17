@@ -60,10 +60,24 @@ Make sure to choose a password that you will not forget. Note that they **do not
 
 ### Working online
 
+In addition to hosting Git repositories for you, GitHub also makes it possible to browse its public repositories (and the private ones that you have access to) and edit the files in your repositories.
+
+The GitHub Guide [Hello World][hello-world] is the good place to start learning how to work with Git and to collaborate with others through GitHub.
+
+You're on your way! The next step is to learn about creating what GitHub calls a _fork_. Forks are copies of someone else's repository. In GitHub's workflow you collaborate on projects by creating a fork, modifying the code, and then finally making a _pull request_ to have your code merged into the original.
+
+Work throgh the GitHub Guide [Forking Projects][forking] to learn how to create and work with forks. You can skip the _cloning_ step and make your changes online for now. We will learn about working locally (with files that reside on your computer in the next section).
+
+#### Create your project plan
+
+Your team lead should create a reposititory for your team on GitHub.
+
 ### Using Git on the command online
 
 ### Using Git from IntelliJ
 
 ## Branches, Code Reviews, and Merge Conflicts
 
+[forking]: <https://guides.github.com/activities/forking/>
 [github]: <https://github.com>
+[hello-world]: <https://guides.github.com/activities/hello-world/>
