@@ -52,11 +52,11 @@ If you don't already have one, the first step is to create an account on [GitHub
 
 <img src="/images/GitHub-sign-up.jpg" alt="GitHub sign-up dialog" width="50%">
 
-Take the time to come up with a good username - your first and last name is a good choice – if you continue in computer science your GitHub account is likely to be a source of connections and also a feature on your resume.
+Take the time to come up with a good username - your first and last name is a good choice – if you continue in computer science your GitHub account is likely to be a source of connections and also a feature on your resume. You don't want to be embarrased by your username. You also want your teacher to be able to recognize your account.
 
-Use an e-mail account that you have access to so that you can verify your account.
+Use an e-mail account that you have access to. You will need to use it to verify your account. A working e-mail is also necessary to reset your password.
 
-Make sure that you choose a password that you will not forget. Note that they **do not** ask you to verify your password. Make sure that you have it right! You may want to type it in the clear and the cut and paste it into the form.
+Make sure to choose a password that you will not forget. Note that they **do not** ask you to verify your password. Make sure that you have it right! You may want to type it in the clear and the cut and paste it into the form.
 
 ### Working online
 
