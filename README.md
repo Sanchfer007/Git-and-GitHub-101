@@ -64,7 +64,7 @@ In addition to hosting Git repositories for you, GitHub also makes it possible t
 
 The GitHub Guide [Hello World][hello-world] is the good place to start learning how to work with Git and to collaborate with others through GitHub.
 
-You're on your way! The next step is to learn about creating what GitHub calls a _fork_. Forks are copies of someone else's repository. In GitHub's workflow you collaborate on projects by creating a fork, modifying the code, and then finally making a _pull request_ to have your code merged into the original.
+You're on your way! The next step is to learn about creating what GitHub calls a _fork_. Forks are copies of someone else's repository. In GitHub's workflow you collaborate on projects by creating a fork, modifying the code, and then finally making a _pull request_ to have your code merged into the original
 
 Work throgh the GitHub Guide [Forking Projects][forking] to learn how to create and work with forks. You can skip the _cloning_ step and make your changes online for now. We will learn about working locally (with files that reside on your computer in the next section).
 
