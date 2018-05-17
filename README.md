@@ -37,5 +37,5 @@ To avoid merge conflicts you first try to avoid having multiple people working o
 [merge]: <>
 [pull]: <>
 [push]: <>
-[repository]: <https://guides.github.com/introduction/git-handbook/#repository>
+[repository]: https://guides.github.com/introduction/git-handbook/#repository
 [status]: <>
