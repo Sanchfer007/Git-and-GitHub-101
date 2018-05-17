@@ -39,3 +39,21 @@ To avoid merge conflicts you first try to avoid having multiple people working o
 [push]: <https://git-scm.com/docs/git-push>
 [repository]: <https://guides.github.com/introduction/git-handbook/#repository>
 [status]: <https://git-scm.com/docs/git-status>
+
+## Git / GitHub Skills
+
+Managing versions and changes on a multi-user project can become very complex, good "git hygine" helps a lot, but it is still very possible to make a big mess in a hurry...
+
+Attention to detail and practicing (a lot) will go a long way to developing a solid set of skills that will add depth to your resume. We'll take this is bite size chunks so that it doesn't get too overwhelming.
+
+### Setting up an account on GitHub
+
+The first step is to create an account on GitHub.
+
+### Working online
+
+### Using Git on the command online
+
+### Using Git from IntelliJ
+
+## Branches, Code Reviews, and Merge Conflicts
