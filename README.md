@@ -50,7 +50,7 @@ Attention to detail and practicing (a lot) will go a long way to developing a so
 
 If you don't already have one, the first step is to create an account on [GitHub][]. Click on the link, you'll be greated by a sign-up form like this:
 
-<img src="/images/GitHub-sign-up.jpg" alt="GitHub sign-up dialog" width="50%">
+<img src="images/GitHub-sign-up.jpg" alt="GitHub sign-up dialog" width="50%">
 
 Take the time to come up with a good username - your first and last name is a good choice – if you continue in computer science your GitHub account is likely to be a source of connections and also a feature on your resume. You don't want to be embarrased by your username. You also want your teacher to be able to recognize your account.
 
@@ -67,10 +67,6 @@ The GitHub Guide [Hello World][hello-world] is the good place to start learning 
 You're on your way! The next step is to learn about creating what GitHub calls a _fork_. Forks are copies of someone else's repository. In GitHub's workflow you collaborate on projects by creating a fork, modifying the code, and then finally making a _pull request_ to have your code merged into the original.
 
 Work throgh the GitHub Guide [Forking Projects][forking] to learn how to create and work with forks. You can skip the _cloning_ step and make your changes online for now. We will learn about working locally (with files that reside on your computer in the next section).
-
-#### Create your project plan
-
-Your team lead should create a reposititory for your team on GitHub.
 
 ### Using Git on the command online
 
