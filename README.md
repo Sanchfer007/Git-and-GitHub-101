@@ -29,13 +29,13 @@ What separates using git on your own from work in a team project is the possibil
 To avoid merge conflicts you first try to avoid having multiple people working on the same files, and use the Git **[branch][]** and **[merge][]** facilities to manage potential conflicts.
 
 [add]: <https://git-scm.com/docs/git-add>
-[branch]: <>
-[clone]: <>
-[commit]: <>
-[diff]: <>
-[log]: <>
-[merge]: <>
-[pull]: <>
-[push]: <>
-[repository]: https://guides.github.com/introduction/git-handbook/#repository
-[status]: <>
+[branch]: <https://git-scm.com/docs/git-branch>
+[clone]: <https://git-scm.com/docs/git-clone>
+[commit]: <https://git-scm.com/docs/git-commit>
+[diff]: <https://git-scm.com/docs/git-diff>
+[log]: <https://git-scm.com/docs/git-log>
+[merge]: <https://git-scm.com/docs/git-merge>
+[pull]: <https://git-scm.com/docs/git-pull>
+[push]: <https://git-scm.com/docs/git-push>
+[repository]: <https://guides.github.com/introduction/git-handbook/#repository>
+[status]: <https://git-scm.com/docs/git-status>
