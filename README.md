@@ -48,7 +48,15 @@ Attention to detail and practicing (a lot) will go a long way to developing a so
 
 ### Setting up an account on GitHub
 
-The first step is to create an account on GitHub.
+If you don't already have one, the first step is to create an account on [GitHub][]. Click on the link, you'll be greated by a sign-up form like this:
+
+<img src="/images/GitHub-sign-up.jpg" alt="GitHub sign-up dialog" width="50%">
+
+Take the time to come up with a good username - your first and last name is a good choice – if you continue in computer science your GitHub account is likely to be a source of connections and also a feature on your resume.
+
+Use an e-mail account that you have access to so that you can verify your account.
+
+Make sure that you choose a password that you will not forget. Note that they **do not** ask you to verify your password. Make sure that you have it right! You may want to type it in the clear and the cut and paste it into the form.
 
 ### Working online
 
@@ -57,3 +65,5 @@ The first step is to create an account on GitHub.
 ### Using Git from IntelliJ
 
 ## Branches, Code Reviews, and Merge Conflicts
+
+[github]: <https://github.com>
